@@ -1,4 +1,5 @@
-# Cameroon Population Modeling (Malthus vs. Logistic)
+# Cameroon Population Modeling (Malthus vs. Logistic) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 This study asks: *Which model, Malthus or Verhulst, is more reliable for estimating when Cameroon reaches its maximum sustainable population?*  
